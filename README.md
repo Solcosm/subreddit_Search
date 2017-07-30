@@ -10,8 +10,8 @@ Uninstallation is as simple as clicking on the trashcan icon and confirming your
 # Syntax
 The extension has an example query underneath the search bar:
 
-| e.g. gaming Super Mario
+> e.g. gaming Super Mario
 
 Of course, you can replace these with any subreddit and query combination you desire.
 
-The FIRST word will always represent the subreddit name, so make sure you type it exactly how it is written in the URL. Every word afterwards serves as your search keywords.
+The **FIRST** word will always represent the subreddit name, so make sure you type it exactly how it is written in the URL. Every word afterwards serves as your search keywords.
